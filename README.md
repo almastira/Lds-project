@@ -1,4 +1,4 @@
-# Lds-project
+# Decision-Support-Systems
 
 Final project for the university course "Laboratorie for Data Science"
 
